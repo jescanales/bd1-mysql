@@ -26,6 +26,7 @@ favicon_path:     /assets/gitbook/images/favicon.ico
 
 # markdown render engine.
 markdown:         kramdown
+remote_theme: sighingnow/jekyll-gitbook
 kramdown:
   auto_ids:               true
   input:                  GFM
